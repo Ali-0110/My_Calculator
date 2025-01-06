@@ -6,7 +6,9 @@ I created this calculator as a personal project to learn more about python and i
 - This calculator can handle basic operations such as Summation,Subtracting,Multiplication and Division.
 - It can handle division by zero errors.
 - It can recognize errors such as syntax error.
-
+# How to run
+```bash
+python calculator.py```
 
 # Implemntation by GUI 
 ![my calculator](https://github.com/user-attachments/assets/229663e9-49b0-4555-88b2-4ed1c6124f5b)
