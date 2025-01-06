@@ -7,6 +7,12 @@ I created this calculator as a personal project to learn more about python and i
 - It can handle division by zero errors.
 - It can recognize errors such as syntax error.
 # How to run
+
+Clone the repository
+```bash
+git clone https://github.com/Ali-0110/My_Calculator.git
+```
+run code 
 ```bash
 python calculator.py
 ```
