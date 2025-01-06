@@ -11,6 +11,7 @@ I created this calculator as a personal project to learn more about python and i
 Clone the repository
 ```bash
 git clone https://github.com/Ali-0110/My_Calculator.git
+cd My_Calculator
 ```
 run code 
 ```bash
